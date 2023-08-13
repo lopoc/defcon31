@@ -1,4 +1,5 @@
-![](timeprobe.png | width=100)
+
+<img src="timeprobe.png" alt="Image Description" width="300">
 
 # TIMEPROBE
 
